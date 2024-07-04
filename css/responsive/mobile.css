@@ -45,9 +45,42 @@
     box-shadow: none;
     height: 97%;
 }
-.page2{
+
+
+.page2 {
     flex-direction: column;
-    height: 150%;
+    height: 200%;
     align-items: center;
 }
 
+.pg3-tittle {
+
+    height: unset;
+
+}
+
+.pg3-para {
+    width: unset;
+    height: unset;
+    display: unset;
+}
+
+.para {
+   
+  
+    display: unset;
+    align-items: self-start;
+    height: unset;
+    width: unset;
+}
+
+.page4 {
+
+    height: 220%;
+}
+
+form{
+    width: 98%;
+    height: 50%;
+
+}
