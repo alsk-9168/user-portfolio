@@ -48,6 +48,7 @@
 
 
 .page2 {
+    margin-bottom: 90%;
     flex-direction: column;
     height: 200%;
     align-items: center;
@@ -66,8 +67,7 @@
 }
 
 .para {
-   
-  
+    text-align: center;
     display: unset;
     align-items: self-start;
     height: unset;
